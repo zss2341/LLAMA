@@ -1,10 +1,12 @@
 # LLAMA
 ![image](https://user-images.githubusercontent.com/25265905/223897329-dbda8500-f39c-474a-a608-c93fe0b56bb6.png)
 
+
 让我们从baby阶段一步步的训练自己的亚玛。第一步：先把文件上传到阿里云盘
 
 
-# 模型推荐：
+# 第一步：下载模型
+### 模型选择：
 推荐依据是评测机构对于不同参数的模型进行的IQ测试：
 
 LLaMA	Reasoning tasks
@@ -18,15 +20,15 @@ Number of parameters	BoolQ	PIQA	SIQA	HellaSwag	WinoGrande	ARC-e	ARC-c	OBQA	COPA
 而7B与13B相比，则7B性价比较高。
 故而推荐个人开发者训练7B的模型，中小企业训练33B的模型。
 
-# 阿里云盘下载链接：
+### 阿里云盘下载链接：
 7B
 13B
 30B
 65B https://www.aliyundrive.com/s/2zcQYeTSfHJ
 
-# 百度云盘下载链接：
+### 百度云盘下载链接：
 7B
 13B
 30B
 65B
-# 第二步：
+# 第二步：平台选择
