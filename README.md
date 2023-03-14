@@ -22,8 +22,11 @@ Number of parameters	BoolQ	PIQA	SIQA	HellaSwag	WinoGrande	ARC-e	ARC-c	OBQA	COPA
 
 ### 阿里云盘下载链接：
 7B https://www.aliyundrive.com/s/26jvNPox7Ep
+
 13B https://www.aliyundrive.com/s/DXfaAxPrbJv
+
 30B https://www.aliyundrive.com/s/DXfaAxPrbJv
+
 65B https://www.aliyundrive.com/s/2zcQYeTSfHJ
 
 ### 百度云盘下载链接：
