@@ -31,16 +31,28 @@ Number of parameters	BoolQ	PIQA	SIQA	HellaSwag	WinoGrande	ARC-e	ARC-c	OBQA	COPA
 
 ### 百度云盘下载链接：
 7B 
+
 13B
+
 30B
+
 65B
+
 下面是该模型经过GPTQ转化而来的简化版，使用GPTQ技术能够大幅度的降低模型对于GPU显存以及内存的消耗。故而推荐指数+1
+
 7B 
+
 13B
+
 30B 
+
 65B
+
 由于GPTQ简化版的性能会随着参数的增加而降低受益，故而推荐所有人使用30B的4Bit版本
+
 # 第二步：平台选择
+
 首选：谷歌colab
+
 次选：百度飞浆
 
